@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shehmirkz&label=Profile%20Views&color=0e75b6)
 
-# Hey 👋 I'm Shahmir Hussain
+# Hey 👋 I'm Shehmir Hussain
 
 Frontend Engineer from Pakistan specializing in React.js, Next.js, TypeScript, React Native, and Payload CMS. Passionate about building scalable web and mobile applications that solve real business problems.
 
@@ -25,7 +25,6 @@ Frontend Engineer from Pakistan specializing in React.js, Next.js, TypeScript, R
 
 ## Current Focus 🚀
 
-- Startup Investment Platforms
 - React Native Mobile Apps
 - Payload CMS Solutions
 - AI-Powered Products
